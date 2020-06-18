@@ -165,9 +165,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   iZettle is a one-stop shop for cutting-edge commerce tools — offering
   everything you need to take quick payments, ease day-to-day management,
   and get the funding to grow.
-* [treefin](https:/www.treefin.com) ([GitHub](https://github.com/treefin)) – treefin is a German language mobile 
-  appication that organizes your finances. A great deal of the front-end is 
-  written in elm.
+* [treefin](https:/www.treefin.com) ([GitHub](https://github.com/treefin)) – 
+  treefin (Munich) is a German language mobile application that organizes your
+  finances. A great deal of the front-end is written in elm.
 
 #### Healthcare
 
